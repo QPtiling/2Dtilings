@@ -25,7 +25,7 @@ Vertex points and connecting pairs are provided for some two-dimensional quasipe
 
 
 ## Binary files
-Binary data files are located at a directory /binary. Each binary file includes the vertex points and nearest-neighbor bonds. The structure of the data should be clear after reading the source code of "src.cpp". Larger lattice data is upon request.
+Binary data files are located at a directory /binary. Each binary file includes the vertex points (~ one million) and nearest-neighbor bonds. The structure of the data should be clear after reading the source code of "src.cpp". Larger lattice data is upon request.
 
 |Name| File | Sites | Bonds | *Density |
 |:--|:-----------|:-----------:|:------------:|--:|
@@ -37,7 +37,7 @@ Binary data files are located at a directory /binary. Each binary file includes 
 
 *This is the exact value in the thermodynamic limit. (Longer) bond length is the unit.
 
-## Sample application
+## Simple application
 
 `./GRAPH binary/[***.bin]`
 
