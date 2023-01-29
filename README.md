@@ -10,19 +10,19 @@ Vertex points and connecting pairs are provided for some two-dimensional quasipe
 
 ![](figures/AmmannBeenker.png)
 
-- Stampfli tiling (triangles and squares) 
+- Stampfli tiling (triangles and squares) [1]
 
 ![](figures/Stampfli.png)
 
-- Socolar dodecagonal tiling (hexagons, squares, and rhombuses) [1]
+- Socolar dodecagonal tiling (hexagons, squares, and rhombuses) [2]
 
 ![](figures/Dodecagonal.png)
 
-- Eight-tile hexagonal golden-mean tiling (large and small hexagons, and parallelograms) [2]
+- Eight-tile hexagonal golden-mean tiling (large and small hexagons, and parallelograms) [3]
 
 ![](figures/8TileGMT.png)
 
-- Bronze-mean tiling (large and small triangles, and rectangles) [3]
+- Bronze-mean tiling (large and small triangles, and rectangles) [4]
 
 ![](figures/Bronze.png)
 
@@ -62,8 +62,10 @@ To visualize the tiling, "gnuplot" is convenient.
 
 ## References
 
-[1] J. E. S. Socolar, Phys. Rev. B 39, 10519 (1989)
+[1] P. Stampfli, Helv. Phys. Acta 59, 1260 (1986)
 
-[2] S. Coates, R. Lifshitz, A. Koga, R. McGrath, H. R. Sharma, R. Tamura, arXiv:2201.11848
+[2] J. E. S. Socolar, Phys. Rev. B 39, 10519 (1989)
 
-[3] T. Dotera, S. Bekku, and P. Ziherl, Nat. Mater. 16, 987 (2017).
+[3] S. Coates, R. Lifshitz, A. Koga, R. McGrath, H. R. Sharma, R. Tamura, arXiv:2201.11848
+
+[4] T. Dotera, S. Bekku, and P. Ziherl, Nat. Mater. 16, 987 (2017).
