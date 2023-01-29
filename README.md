@@ -10,7 +10,7 @@ Vertex points and connecting pairs are provided for some two-dimensional quasipe
 
 ![](figures/AmmannBeenker.png)
 
-- Stampfli tiling (triangles and squares)
+- Stampfli tiling (triangles and squares) 
 
 ![](figures/Stampfli.png)
 
