@@ -25,7 +25,10 @@ Vertex points and connecting pairs are provided for some two-dimensional quasipe
 
 
 ## Binary files
-Binary data files are located at a directory /binary. Each binary file includes the vertex points (~ one million) and nearest-neighbor bonds. The structure of the data should be clear after reading the source code of "src.cpp". Larger lattice data is upon request.
+Binary data files are located at a directory /binary. Each binary file includes the vertex points and nearest-neighbor bonds. The structure of the data should be clear after reading the source code of "src.cpp". 
+
+Larger lattice data (~ one million) is located at
+https://github.com/QPtiling/2Dtilings-Binary
 
 |Name| File | Sites | Bonds | *Density |
 |:--|:-----------|:-----------:|:------------:|--:|
