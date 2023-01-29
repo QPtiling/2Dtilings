@@ -10,6 +10,10 @@ Vertex points and connecting pairs are provided for some two-dimensional quasipe
 
 ![](figures/AmmannBeenker.png)
 
+- Bronze-mean tiling (large and small triangles, and rectangles)
+
+![](figures/Bronze.png)
+
 - Stampfli tiling (triangles and squares) 
 
 ![](figures/Stampfli.png)
@@ -34,6 +38,7 @@ https://github.com/QPtiling/2Dtilings-Binary
 |:--|:-----------|:-----------:|:------------:|--:|
 |Penrose tiling|Penrose.bin | 10 006 | 19 805    |$2\cdot 5^{-3/4}\tau_1^{3/2}\sim$ 1.23107|
 |Ammann-Beenker tiling|AmmannBeenker.bin| 10 009 | 19 808 |$\tau_2/2\sim$ 1.20711|
+|Bronze-mean tiling|Bronze.bin|10 020|50 404||
 |Stampfli tiling|Stampfli.bin|10 008| 50 152             |$1/2+1/\sqrt{3}\sim$ 1.07735|
 |Socolar dodecagonal tiling [1]|Dodecagonal.bin|10 008|17 985|$2(3+\sqrt{3})/9\sim$ 1.05157|
 |Eight-tile hexagonal golden-mean tiling [2]|8TileGMT.bin|10 033| 19 848 |$2\tau_1^4/(5\sqrt{3})\sim$ 1.58289|
